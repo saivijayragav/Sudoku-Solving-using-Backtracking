@@ -106,6 +106,7 @@ function solver(mat){
 }
 }
 function start(){
+  document.getElementById("but").onclick = null;
     solver(puzzle)
 var j = 0;
 
