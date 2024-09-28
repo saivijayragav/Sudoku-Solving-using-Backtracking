@@ -1,7 +1,3 @@
-Here's a README file for your GitHub repository:
-
----
-
 # Sudoku Solver
 
 This project is a simple web-based Sudoku solver that visualizes the solving process in real-time. The solver fills in the Sudoku grid step-by-step, making it easy to see how the solution is derived.
