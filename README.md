@@ -43,7 +43,7 @@ This JavaScript file handles the Sudoku-solving logic and interacts with the DOM
    git clone https://github.com/saivijayragav/sudoku-solver.git
    ```
 
-2. Open the `main.html` file in your web browser.
+2. Open the `index.html` file in your web browser.
 
 3. Click the "Solve" button to see the Sudoku solver in action.
 
