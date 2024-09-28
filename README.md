@@ -10,13 +10,13 @@ This project is a simple web-based Sudoku solver that visualizes the solving pro
 
 The project consists of three main files:
 
-1. **`main.html`**: The HTML structure of the Sudoku solver, including the grid layout and the "Solve" button.
+1. **`index.html`**: The HTML structure of the Sudoku solver, including the grid layout and the "Solve" button.
 2. **`styles.css`**: The CSS file for styling the Sudoku grid and other elements on the page.
 3. **`sudo.js`**: The JavaScript file that contains the logic for solving the Sudoku puzzle and dynamically updating the grid display.
 
 ## Files
 
-### 1. `main.html`
+### 1. `index.html`
 
 This file contains the main layout of the Sudoku solver. It defines the 9x9 Sudoku grid using a series of nested `<div>` elements. Each 3x3 sub-grid is encapsulated in a `div` with the class `m`, and the cells within are identified by unique IDs to facilitate dynamic updates.
 
